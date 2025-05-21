@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muawia24/Ps_Stamina/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Muawia24/Ps_Stamina/tree/master/0073-set-matrix-zeroes) |
 | [3321-type-of-triangle](https://github.com/Muawia24/Ps_Stamina/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
@@ -20,4 +21,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Muawia24/Ps_Stamina/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Muawia24/Ps_Stamina/tree/master/0073-set-matrix-zeroes) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Muawia24/Ps_Stamina/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
