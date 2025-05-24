@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Muawia24/Ps_Stamina/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Muawia24/Ps_Stamina/tree/master/0073-set-matrix-zeroes) |
+| [3194-find-words-containing-character](https://github.com/Muawia24/Ps_Stamina/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Muawia24/Ps_Stamina/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Muawia24/Ps_Stamina/tree/master/3647-zero-array-transformation-iii) |
 ## Math
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3647-zero-array-transformation-iii](https://github.com/Muawia24/Ps_Stamina/tree/master/3647-zero-array-transformation-iii) |
+## String
+|  |
+| ------- |
+| [3194-find-words-containing-character](https://github.com/Muawia24/Ps_Stamina/tree/master/3194-find-words-containing-character) |
 <!---LeetCode Topics End-->
