@@ -3,9 +3,7 @@ class Solution:
         indices = []
 
         for i, word in enumerate(words):
-            for char in word:
-                if char == x:
+                if x in word:
                     indices.append(i)
-                    break
 
         return indices
