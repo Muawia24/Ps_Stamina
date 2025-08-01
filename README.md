@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Muawia24/Ps_Stamina/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Muawia24/Ps_Stamina/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/Muawia24/Ps_Stamina/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Muawia24/Ps_Stamina/tree/master/0934-bitwise-ors-of-subarrays) |
 | [3194-find-words-containing-character](https://github.com/Muawia24/Ps_Stamina/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Muawia24/Ps_Stamina/tree/master/3321-type-of-triangle) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/Muawia24/Ps_Stamina/tree/master/0118-pascals-triangle) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Muawia24/Ps_Stamina/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Bit Manipulation
 |  |
