@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/Muawia24/Ps_Stamina/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Muawia24/Ps_Stamina/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/Muawia24/Ps_Stamina/tree/master/3647-zero-array-transformation-iii) |
+| [3790-fruits-into-baskets-ii](https://github.com/Muawia24/Ps_Stamina/tree/master/3790-fruits-into-baskets-ii) |
 ## Math
 |  |
 | ------- |
@@ -70,9 +71,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Muawia24/Ps_Stamina/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3790-fruits-into-baskets-ii](https://github.com/Muawia24/Ps_Stamina/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
 | [0940-fruit-into-baskets](https://github.com/Muawia24/Ps_Stamina/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Muawia24/Ps_Stamina/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Muawia24/Ps_Stamina/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Muawia24/Ps_Stamina/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Muawia24/Ps_Stamina/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
