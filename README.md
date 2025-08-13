@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Muawia24/Ps_Stamina/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Muawia24/Ps_Stamina/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Muawia24/Ps_Stamina/tree/master/0342-power-of-four) |
 | [3321-type-of-triangle](https://github.com/Muawia24/Ps_Stamina/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Muawia24/Ps_Stamina/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Muawia24/Ps_Stamina/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Muawia24/Ps_Stamina/tree/master/0934-bitwise-ors-of-subarrays) |
 ## Binary Search
 |  |
@@ -101,4 +103,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Muawia24/Ps_Stamina/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Muawia24/Ps_Stamina/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Muawia24/Ps_Stamina/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
