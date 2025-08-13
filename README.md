@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Muawia24/Ps_Stamina/tree/master/0326-power-of-three) |
 | [3321-type-of-triangle](https://github.com/Muawia24/Ps_Stamina/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3790-fruits-into-baskets-ii](https://github.com/Muawia24/Ps_Stamina/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/Muawia24/Ps_Stamina/tree/master/3791-fruits-into-baskets-iii) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Muawia24/Ps_Stamina/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
