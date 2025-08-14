@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Muawia24/Ps_Stamina/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/Muawia24/Ps_Stamina/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
 |  |
