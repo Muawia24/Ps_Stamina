@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Muawia24/Ps_Stamina/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Muawia24/Ps_Stamina/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Muawia24/Ps_Stamina/tree/master/0342-power-of-four) |
+| [2032-largest-odd-number-in-string](https://github.com/Muawia24/Ps_Stamina/tree/master/2032-largest-odd-number-in-string) |
 | [3321-type-of-triangle](https://github.com/Muawia24/Ps_Stamina/tree/master/3321-type-of-triangle) |
 ## Sorting
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Muawia24/Ps_Stamina/tree/master/2032-largest-odd-number-in-string) |
 | [2689-rearranging-fruits](https://github.com/Muawia24/Ps_Stamina/tree/master/2689-rearranging-fruits) |
 | [3647-zero-array-transformation-iii](https://github.com/Muawia24/Ps_Stamina/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2032-largest-odd-number-in-string](https://github.com/Muawia24/Ps_Stamina/tree/master/2032-largest-odd-number-in-string) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/Muawia24/Ps_Stamina/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3194-find-words-containing-character](https://github.com/Muawia24/Ps_Stamina/tree/master/3194-find-words-containing-character) |
 ## Dynamic Programming
